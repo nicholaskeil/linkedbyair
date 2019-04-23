@@ -1,0 +1,27 @@
+* { margin:0; padding:0; } 
+html, body { width:100%; height:100%; overflow: hidden; 
+	background:linear-gradient(270deg, #ff0000, #00ca61, #ffffff, #fffa00);
+} 
+canvas { display:block; }
+#controls {
+  margin: 20px;
+  position: absolute;
+  top: 0; left: 0;
+  color: white;
+}
+
+#linkedbyair{
+top: 150px;
+font-size: 300px;
+color: yellow;
+font-family: Helvetica;
+position: absolute;
+opacity: 50%;
+}
+
+h2{
+	font-size: 16px;
+color: white;
+font-family: Helvetica;
+position: absolute;
+}
