@@ -73,7 +73,7 @@ function init(){
   points.push(new Point(width*.25, height*.75));
   points.push(new Point(width*.75, height*.75));
   
-  img = loadImage("https://www.google.com/url?sa=i&source=images&cd=&cad=rja&uact=8&ved=2ahUKEwjj0uDdrufhAhUSc98KHaojDLQQjRx6BAgBEAU&url=http%3A%2F%2Fdreamicus.com%2Fyellow.html&psig=AOvVaw3itk8ohKCHfWRDLrpeRo8H&ust=1556148398729500");
+  img = loadImage("http://dreamicus.com/data/yellow/yellow-05.jpg");
 }
 
 function draw(){
